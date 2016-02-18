@@ -1,4 +1,7 @@
 <<<<<<< HEAD
 GIT TOURTOL
 add FB
->>>>>>> fix-B
+FEATURE-C
+MISTAKE
+fix mistake
+>>>>>> fix-B
